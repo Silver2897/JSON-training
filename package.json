@@ -1,0 +1,18 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;amp;&amp;amp; exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "handlebars": "^4.0.11",
+    "hapi": "^17.2.0",
+    "mongodb": "^3.2.7"
+  }
+}
